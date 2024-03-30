@@ -410,11 +410,11 @@ export const projects = [
   {
     id: 12,
     title: "V Chat",
-    date: "Jan 2024 - Dec 2023",
+    date: "Jan 2020 - Feb 2020",
     description:
       "VChat is a web - based chatting app in which user can create a instant room and share the ID to start texting with their friends. WebSockets are used for communication session between the user's browser and a server",
     image:
-      "https://cdn.sanity.io/images/3gsfgfso/production/beba11fb4af9152c162fe8baec6bec110987bb78-1080x1080.png",
+      "https://github.com/vishnuvirat/latest-portfolio/blob/main/vishnu%20portfolio/src/images/Vchat.png?raw=true",
     tags: [
       "React Js",
       "TailWind CSS",
@@ -430,19 +430,16 @@ export const projects = [
   {
     id: 13,
     title: "Match-Or-Die",
-    date: "Jan 2024 - Dec 2023",
+    date: "Mar 2020 - May 2020",
     description:
       "Match - or - die is a simple matching game in which the user has to match the cards to win the game in the given time. The score is provided for a every won match. If he fails to match all the cards in the given time he lost the game.",
     image:
-      "https://cdn.sanity.io/images/3gsfgfso/production/11069a3ac00cabab9853096cd177a1d51a1f26f0-1080x1080.png",
+      "https://github.com/vishnuvirat/latest-portfolio/blob/main/vishnu%20portfolio/src/images/MatchOrDie.png?raw=true",
     tags: [
-      "React Js",
-      "TailWind CSS",
-      "Node Js",
-      "Express Js",
-      "Redux",
+      "Hyper Text Markup Language",
+      "Cascading Style Sheets",
+      "Java Script",
       "Netlify",
-      "React Flow",
     ],
     category: "web app",
     github: "",
@@ -450,17 +447,44 @@ export const projects = [
   },
   {
     id: 14,
-    title: "Match-Or-Die",
-    date: "Jan 2024 - Dec 2023",
+    title: "V Notes",
+    date: "Jun 2020 - Aug 2020",
     description:
-      "Match - or - die is a simple matching game in which the user has to match the cards to win the game in the given time. The score is provided for a every won match. If he fails to match all the cards in the given time he lost the game.",
+      "V Notes is a note - taking service included as part of the free, web - based application. It is a fully responsive and optimized application. The interface allows for a single - column view or a multi - column view. We can create, read, update, delete any note. This application contains authorization in which user have their own database for their content.",
     image:
-      "https://cdn.sanity.io/images/3gsfgfso/production/11069a3ac00cabab9853096cd177a1d51a1f26f0-1080x1080.png",
+      "https://github.com/vishnuvirat/latest-portfolio/blob/main/vishnu%20portfolio/src/images/Vnotes.png?raw=true",
+    tags: [
+      "Netlify",
+      "MongoDB",
+      "React Js",
+      "TailWind CSS",
+      "Node Js",
+      "Github",
+      "Express Js",
+      "Redux",
+      "Netlify",
+      "React Flow",
+    ],
+    category: "web app",
+    github: "",
+    webapp: "https://vnotes.surge.sh/login",
+  },
+  {
+    id: 15,
+    title: "Vinod-Sarees",
+    date: "Feb 2022 - Apr 2022",
+    description:
+      "Vinod-sarees is a e-commerce web application. This application contain different kinds of sarees from different locations. We can create an account and login with credentials to continue shopping. This app contains payment portal in which one can pay using debit, credit or upi.",
+    image:
+      "https://github.com/vishnuvirat/latest-portfolio/blob/main/vishnu%20portfolio/src/images/Vnotes.png?raw=true",
     tags: [
       "React Js",
       "TailWind CSS",
       "Node Js",
+      "Prisma",
+      "Vercel",
       "Express Js",
+      "Github",
       "Redux",
       "Netlify",
       "React Flow",
