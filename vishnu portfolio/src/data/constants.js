@@ -278,7 +278,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "vishnu portfolio/src/images/newMark.jpeg",
+    img: "https://github.com/vishnuvirat/latest-portfolio/blob/main/vishnu%20portfolio/src/images/newMark.jpeg?raw=true",
     role: "Frontend Engineer Intern",
     company: "Newmark",
     date: "May 2023 - Present",
