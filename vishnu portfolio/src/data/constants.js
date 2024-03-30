@@ -296,7 +296,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    img: "https://github.com/vishnuvirat/latest-portfolio/blob/main/vishnu%20portfolio/src/images/GNI.jpeg?raw=true",
     role: "Social Media Manager",
     company: "Guru Nanak Institutions Technical campus",
     date: "Dec 2022 - May 2023",
@@ -358,7 +358,7 @@ export const experiences = [
   },
   {
     id: 4,
-    img: "",
+    img: "https://github.com/vishnuvirat/latest-portfolio/blob/main/vishnu%20portfolio/src/images/gdsc.png?raw=true",
     role: "Video Editor",
     company: "GDSC-GNI",
     date: "Nov2021 - Present",
@@ -367,7 +367,7 @@ export const experiences = [
   },
   {
     id: 5,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
+    img: "https://github.com/vishnuvirat/latest-portfolio/blob/main/vishnu%20portfolio/src/images/hacktober.jpeg?raw=true",
     role: "Open Source Contributor ",
     company: "Hacktober Fest",
     date: "Oct 2021 - Nov 2021",
@@ -378,7 +378,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+    img: "https://github.com/vishnuvirat/latest-portfolio/blob/main/vishnu%20portfolio/src/images/GNI.jpeg?raw=true",
     school: "Guru Nanak Institutions Technical Campus, Hyderabad",
     date: "Nov 2020 - Jun 2024",
     grade: "8.30 CGPA",
@@ -388,7 +388,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://github.com/vishnuvirat/latest-portfolio/blob/main/vishnu%20portfolio/src/images/kottam.jpeg?raw=true",
     school: "Kottam Manikyamma Junior College, Gadwal",
     date: "May 2018 - May 2020",
     grade: "964",
@@ -397,7 +397,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://github.com/vishnuvirat/latest-portfolio/blob/main/vishnu%20portfolio/src/images/vishwa.jpeg?raw=true",
     school: "Vishwa Bharathi High School, Gadwal",
     date: "Mar 2008 - Apr 2018",
     grade: "92.3%",
