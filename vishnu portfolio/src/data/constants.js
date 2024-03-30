@@ -337,7 +337,7 @@ export const experiences = [
   },
   {
     id: 3,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    img: "https://github.com/vishnuvirat/latest-portfolio/blob/main/vishnu%20portfolio/src/images/graspins.jpeg?raw=true",
     role: "Data Science Intern",
     company: "Graspins",
     date: "January 2023 - Present",
@@ -407,6 +407,68 @@ export const education = [
 ];
 
 export const projects = [
+  {
+    id: 12,
+    title: "V Chat",
+    date: "Jan 2024 - Dec 2023",
+    description:
+      "VChat is a web - based chatting app in which user can create a instant room and share the ID to start texting with their friends. WebSockets are used for communication session between the user's browser and a server",
+    image:
+      "https://cdn.sanity.io/images/3gsfgfso/production/beba11fb4af9152c162fe8baec6bec110987bb78-1080x1080.png",
+    tags: [
+      "React Js",
+      "TailWind CSS",
+      "Node Js",
+      "Express Js",
+      "Redux",
+      "React Flow",
+    ],
+    category: "web app",
+    github: "",
+    webapp: "",
+  },
+  {
+    id: 13,
+    title: "Match-Or-Die",
+    date: "Jan 2024 - Dec 2023",
+    description:
+      "Match - or - die is a simple matching game in which the user has to match the cards to win the game in the given time. The score is provided for a every won match. If he fails to match all the cards in the given time he lost the game.",
+    image:
+      "https://cdn.sanity.io/images/3gsfgfso/production/11069a3ac00cabab9853096cd177a1d51a1f26f0-1080x1080.png",
+    tags: [
+      "React Js",
+      "TailWind CSS",
+      "Node Js",
+      "Express Js",
+      "Redux",
+      "Netlify",
+      "React Flow",
+    ],
+    category: "web app",
+    github: "",
+    webapp: "https://vishnu-match-or-die.netlify.app/",
+  },
+  {
+    id: 14,
+    title: "Match-Or-Die",
+    date: "Jan 2024 - Dec 2023",
+    description:
+      "Match - or - die is a simple matching game in which the user has to match the cards to win the game in the given time. The score is provided for a every won match. If he fails to match all the cards in the given time he lost the game.",
+    image:
+      "https://cdn.sanity.io/images/3gsfgfso/production/11069a3ac00cabab9853096cd177a1d51a1f26f0-1080x1080.png",
+    tags: [
+      "React Js",
+      "TailWind CSS",
+      "Node Js",
+      "Express Js",
+      "Redux",
+      "Netlify",
+      "React Flow",
+    ],
+    category: "web app",
+    github: "",
+    webapp: "https://vinod-sarees.vercel.app/",
+  },
   {
     id: 11,
     title: "DecisionHub",
